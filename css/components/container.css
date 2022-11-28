@@ -1,0 +1,9 @@
+.container.middle {
+  background-color: white;
+  width: 900px;
+  margin: auto;
+}
+
+.container.middle h2 {
+  text-align: center;
+}

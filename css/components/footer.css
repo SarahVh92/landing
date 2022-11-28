@@ -1,0 +1,18 @@
+.footer {
+  background-color: black;
+  opacity: 0.8;
+  color: rgb(84, 80, 80);
+  padding: 70px;
+  text-align: center;
+}
+
+p .heart {
+  color: red;
+}
+
+a .fab {
+  color: rgb(0, 214, 129);
+  font-size: 32px;
+  text-decoration: none;
+  padding: 4px;
+}

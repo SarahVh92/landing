@@ -1,0 +1,14 @@
+.btn-yours {
+  background-color: #1EDD88;
+  color: white;
+  font-weight: 500;
+  padding: 16px 36px;
+  border-radius: 50px;
+  transition: background-color 0.3s;
+  width: fit-content;
+}
+
+.btn-yours:hover {
+  transform: scale(150%);
+  background-image: linear-gradient(140deg, #d7e681 0%, #dd8fc4 50%, #EADEDB 75%);
+}
